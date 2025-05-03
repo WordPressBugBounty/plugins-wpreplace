@@ -1,11 +1,11 @@
 === WPReplace内容字符替换插件===
 
 Contributors: laobuluo
-Donate link: https://www.laobuluo.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:WordPress替换,字符替换,标题文章替换
 Requires at least: 4.5.0
-Tested up to: 6.6.1
-Stable tag: 6.3
+Tested up to: 6.8.1
+Stable tag: 7.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,29 +14,27 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WordPress内容字符替换插件（简称:WPReplace），可视化帮助网友快速替换WordPress网站文章标题、内容、评论用户名和评论内容的指定字符。公众号：老蒋朋友圈
 
-<strong>主要功能：</strong>
+## 主要功能：
 
 * 1、下载和激活【WPReplace】插件后，我们就可以在后台菜单看到工具操作界面
 * 2、目前支持网站内容、标题、评论指定字符的快速替换
 * 3、可以快速解决以往我们需要从MYSQL数据库命令替换的烦恼
-* 4、WPReplace插件更多详细介绍和安装：<a href="https://www.lezaiyun.com/wpreplace.html" target="_blank" >https://www.lezaiyun.com/wpreplace.html</a>
+* 4、WPReplace插件更多详细介绍和安装：<a href="https://www.laojiang.me/5987.html" target="_blank" >https://www.laojiang.me/5987.html</a>
 
-<strong>支持网站平台：</strong>
+## 网站支持
 
-* 1. 老蒋部落 <a href="https://www.itbulu.com" target="_blank" >https://www.itbulu.com</a>
+* [老蒋玩运营](https://www.laojiang.me/ "老蒋玩运营")
 
-* 2. 老部落 <a href="https://www.laobuluo.com" target="_blank" >https://www.laobuluo.com</a>
+* [乐在云](https://www.lezaiyun.com/ "乐在云工作室")
 
-* 3. 主机评价网 <a href="https://www.zhujipingjia.com" target="_blank" >https://www.zhujipingjia.com</a>
-
-* 4. 乐在云 <a href="https://www.lezaiyun.com" target="_blank" >https://www.lezaiyun.com</a>
+* 欢迎加入插件和站长微信公众号：老蒋朋友圈（公众号）
 
 == Installation ==
 
 * 1、把插件文件夹上传到/wp-content/plugins/目录下<br />
 * 2、在后台插件列表中激活插件<br />
 * 3、在左侧【工具】菜单找到设置插件菜单<br />
-* 4、设置文档可以参考：https://www.lezaiyun.com/wpreplace.html
+* 4、设置文档可以参考：https://www.laojiang.me/5987.html
 
 == Frequently Asked Questions ==
 
@@ -50,6 +48,12 @@ WordPress内容字符替换插件（简称:WPReplace），可视化帮助网友�
 1. screenshot-1.png
 
 == Changelog ==
+
+= 7.0 =
+* 重构前端界面，采用WP自带样式
+* 添加正则替换功能
+* 添加历史记录表格，可以还原替换的记录
+* 改进替换机制，大数据也不会出现问题
 
 = 6.2 =
 * 检查兼容最新WP6.2
