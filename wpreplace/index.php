@@ -1,9 +1,9 @@
 <?php
 /**
 Plugin Name: WPReplace批量替换插件
-Plugin URI: https://www.laojiang.me/5987.html
+Plugin URI: https://www.lezaiyun.com/804.html
 Description: 实现可视化替换文章内容、标题，评论昵称和评论内容字符。公众号：老蒋朋友圈。
-Version: 7.0
+Version: 7.1
 Author: 老蒋和他的小伙伴
 Author URI: https://www.laojiang.me
 */
@@ -14,7 +14,7 @@ if (!defined('ABSPATH')) {
 }
 
 define('WPReplace_INDEXFILE', 'wpreplace/index.php');
-define('WPReplace_VERSION', '7.0');
+define('WPReplace_VERSION', '7.1');
 define('WPReplace_PATH', plugin_dir_path(__FILE__));
 
 // 在插件加载时就定义表名
@@ -336,7 +336,7 @@ class WPReplace {
         ?>
         <div class="wrap">
             <h1>WPReplace批量替换插件</h1>
-            <p>替换内容设置，建议提前备份数据。<a href="https://www.laojiang.me/5987.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
+            <p>替换内容设置，建议提前备份数据。<a href="https://www.lezaiyun.com/804.html" target="_blank">插件介绍</a>（关注公众号：<span style="color: red;">老蒋朋友圈</span>）</p>
             <style>
                 .wpreplace-card {
                     background: #fff;
